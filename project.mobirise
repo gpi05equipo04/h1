@@ -769,7 +769,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://gpi05equipo04.github.io/h1-anemiaenninos/\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mujeres-gestantes-824x465.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,

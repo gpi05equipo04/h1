@@ -770,7 +770,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mujeres-gestantes-824x465.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -787,7 +787,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -799,7 +799,7 @@
                 "title": "IMPACTO ECONÓMICO",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
+                "text": "El costo total de los efectos de la anemia para el Perú en el 2017 fue de <b>8 375 millones de soles</b>,<b> </b>cifra estimada en base al estudio realizado por Alcázar, L. (2012).",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
               }
             ]

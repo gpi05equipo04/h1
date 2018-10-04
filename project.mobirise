@@ -786,7 +786,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://gpi05equipo04.github.io/h1-anemiaenmadres/\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peruvian-money-called-f62a73c516dd9bcb-700x394.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -800,7 +800,8 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "El costo total de los efectos de la anemia para el Perú en el 2017 fue de <b>8 375 millones de soles</b>,<b> </b>cifra estimada en base al estudio realizado por Alcázar, L. (2012).",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://gpi05equipo04.github.io/anemiaenelperu-impactoeconomico/\" data-toolbar=\"-mbrBtnMove\">MÁS</a> ",
+                "overlayOpacity": "0.7"
               }
             ]
           }

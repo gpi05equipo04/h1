@@ -56,7 +56,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "H1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",

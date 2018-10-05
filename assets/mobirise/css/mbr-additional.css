@@ -2041,6 +2041,7 @@ body {
 }
 .cid-r57adRLI5M .section-text {
   padding: 2rem 0;
+  text-align: center;
 }
 .cid-r57adRLI5M .inner-container {
   margin: 0 auto;
@@ -2049,6 +2050,9 @@ body {
   .cid-r57adRLI5M .inner-container {
     width: 100% !important;
   }
+}
+.cid-r57adRLI5M .section-text DIV {
+  text-align: center;
 }
 .cid-r57aeq0lxe {
   padding-top: 60px;
